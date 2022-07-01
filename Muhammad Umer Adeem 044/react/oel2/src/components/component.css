@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+    background-color: #282c34;
+    justify-content: center;
+    color: white;
+}
+.addCarDiv, .car{
+    padding: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1px;
+    border-color: white;
+}
+nav, footer{
+    margin:0px;
+    background-color: white;
+    color: #282c34;
+}
